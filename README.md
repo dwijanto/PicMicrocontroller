@@ -1,2 +1,2 @@
-# PicMicrocontroller
-Calculator Timer0, Timer1 and Timer2 Android apps.
+# Test Cal
+Calculate tmr0, tmr1, tmr2
